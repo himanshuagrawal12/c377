@@ -8,4 +8,6 @@ These are the features of Project
  - Feature 3
  - Feature 4
  - Feature 5
+
+   &copy; 2024 WILEY INC.
    
